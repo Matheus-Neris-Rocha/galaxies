@@ -68,4 +68,12 @@ O layout do projeto foi desenvolvido utilizando a abordagem mobile-first, garant
 
 - **Fontes**:
   - Fonte Principal: [Mulish](https://fonts.google.com/specimen/Mulish)
+ 
+     
+## Link do projeto
+
+[https://cheesecake-phi.vercel.app/
+](https://galaxies-xi.vercel.app/)
+
+![image](https://github.com/Matheus-Neris-Rocha/galaxies/assets/171521660/6f55f036-b191-4196-b132-1373b3c1f8f8)
 
